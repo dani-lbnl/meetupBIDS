@@ -1,0 +1,11 @@
+Package: meetupBIDS
+Type: Exercising package creation
+Title: This is a sample and simple package
+Version: 0.1
+Date: 2015-03-17
+Author: Dani Ushizima <dani.lbnl@gmail.com>
+Maintainer: Dani Ushizima <dani.lbnl@gmail.com>
+Description: Print a simple hello world
+Depends:
+  R(>= 3.1.2)
+License: MIT
